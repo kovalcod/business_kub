@@ -753,7 +753,7 @@ footer{
     text-decoration: none;
 }
 
-.info_block > button > a{
+.info_block > button a{
     text-decoration: none;
     color: #fff;
 }
