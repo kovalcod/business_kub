@@ -752,3 +752,8 @@ footer{
 .serv_item > ul > li > a{
     text-decoration: none;
 }
+
+.info_block > button > a{
+    text-decoration: none;
+    color: #fff;
+}
