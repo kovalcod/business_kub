@@ -23,7 +23,7 @@ body {
     align-items: center;
 }
 
-.leng, .tel, .mail {
+.leng {
     color: #fff;
     font-size: 12px;
     font-weight: 400;
@@ -757,3 +757,12 @@ footer{
     text-decoration: none;
     color: #fff;
 }
+
+span > strong { 
+    font-weight: 800;
+}
+
+.tel, .mail{
+    font-weight: 300;
+}
+
