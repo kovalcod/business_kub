@@ -323,7 +323,7 @@ body {
 }
 
 .abount_company_content {
-    max-width: 445px;
+    max-width: 600px;
 }
 
 .abount_company_content p {
@@ -753,12 +753,7 @@ footer{
     text-decoration: none;
 }
 
-.info_block > button a{
+.info_block > button > a{
     text-decoration: none;
     color: #fff;
-}
-
-a{
-   text-decoration: none;
-   color: #fff;
 }
