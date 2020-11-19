@@ -766,3 +766,6 @@ span > strong {
     font-weight: 300;
 }
 
+.logo_head > img, .footer_company > img{
+    width: 75px;
+}
