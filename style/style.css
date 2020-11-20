@@ -96,7 +96,7 @@ body {
 .main_rect {
     border: 1px solid #C8A35F;
     max-width: 920px;
-    max-height: 245px;
+    height: auto;
     padding: 45px 72px;
 }
 
@@ -768,4 +768,10 @@ span > strong {
 
 .logo_head > img, .footer_company > img{
     width: 75px;
+}
+
+
+.main_rect > img{
+    width: 250px;
+    margin-top: -15px;
 }
